@@ -21,7 +21,7 @@ Um pouco sobre mim...
 
 <a href="https://www.linkedin.com/in/alex-teixeira-soares-dos-santos-203137a8/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>         
+</a>&nbsp         
 <a href="https://www.instagram.com/kyto_eng/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>  
