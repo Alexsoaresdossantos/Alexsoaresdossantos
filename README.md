@@ -11,7 +11,7 @@ Um pouco sobre mim...
  #### Atualmente focado em:
  <div style = "display:inline">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width=50 />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width=50 />
+  
  </div>   
 
 ##
